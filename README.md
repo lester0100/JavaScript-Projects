@@ -11,6 +11,7 @@ All projects use plain JavaScript (ES6+) and were built as I completed an online
 
 
 <hr/>
+
 **Coding Challenges**
 
 - 1_BMI - Computes BMI for Mark and John and logs the values and a boolean comparing them.
